@@ -1,0 +1,11 @@
+[submodule "wolfssl-all"]
+	path = wolfssl-all
+	url = git@github.com:LeoneChen/wolfssl-all.git
+[submodule "SGX_SQLite"]
+	path = SGX_SQLite
+	url = git@github.com:LeoneChen/SGX_SQLite.git
+	branch = UseSGXSanWithSensitiveLeakSan
+[submodule "mbedtls-SGX"]
+	path = mbedtls-SGX
+	url = git@github.com:LeoneChen/mbedtls-SGX.git
+	branch = UseSGXSanWithSensitiveLeakSan
