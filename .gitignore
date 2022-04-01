@@ -1,0 +1,9 @@
+*.o
+*_t.c
+*_t.h
+*_u.c
+*_u.h
+*.bc
+*.so
+*.so.resolution.txt
+Enclave.edl.json

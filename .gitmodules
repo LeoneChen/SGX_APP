@@ -1,0 +1,57 @@
+[submodule "SGX_SQLite"]
+	path = SGX_SQLite
+	url = git@github.com:LeoneChen/SGX_SQLite.git
+	branch = UseSGXSanWithSensitiveLeakSan
+[submodule "mbedtls-SGX"]
+	path = mbedtls-SGX
+	url = git@github.com:LeoneChen/mbedtls-SGX.git
+	branch = UseSGXSanWithSensitiveLeakSan
+[submodule "SGXCryptoFile"]
+	path = SGXCryptoFile
+	url = git@github.com:LeoneChen/SGXCryptoFile.git
+	branch = UseSGXSanWithSensitiveLeakSan
+[submodule "TaLoS"]
+	path = TaLoS
+	url = git@github.com:LeoneChen/TaLoS.git
+[submodule "sgx-reencrypt"]
+	path = sgx-reencrypt
+	url = git@github.com:LeoneChen/sgx-reencrypt.git
+[submodule "sgx-wallet"]
+	path = sgx-wallet
+	url = git@github.com:LeoneChen/sgx-wallet.git
+[submodule "SampleSGXSan"]
+	path = SampleSGXSan
+	url = git@github.com:LeoneChen/SampleSGXSan.git
+[submodule "wasm-micro-runtime"]
+	path = wasm-micro-runtime
+	url = git@github.com:LeoneChen/wasm-micro-runtime.git
+[submodule "wolfssl-examples"]
+	path = wolfssl-examples
+	url = git@github.com:LeoneChen/wolfssl-examples.git
+[submodule "trusted-function-framework"]
+	path = trusted-function-framework
+	url = git@github.com:LeoneChen/trusted-function-framework.git
+[submodule "bolos-enclave"]
+	path = bolos-enclave
+	url = git@github.com:LeoneChen/bolos-enclave.git
+[submodule "BiORAM-SGX"]
+	path = BiORAM-SGX
+	url = git@github.com:LeoneChen/BiORAM-SGX.git
+[submodule "ehsm"]
+	path = ehsm
+	url = git@github.com:LeoneChen/ehsm.git
+[submodule "SwitchlessSGXSan"]
+	path = SwitchlessSGXSan
+	url = git@github.com:LeoneChen/SwitchlessSGXSan.git
+[submodule "AE"]
+	path = AE
+	url = git@github.com:LeoneChen/linux-sgx.git
+[submodule "sgx-dnet"]
+	path = sgx-dnet
+	url = git@github.com:LeoneChen/sgx-dnet.git
+[submodule "plinius"]
+	path = plinius
+	url = git@github.com:LeoneChen/plinius.git
+[submodule "sgxwallet"]
+	path = sgxwallet
+	url = git@github.com:LeoneChen/sgxwallet.git
