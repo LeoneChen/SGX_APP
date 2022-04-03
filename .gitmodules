@@ -9,3 +9,6 @@
 	path = mbedtls-SGX
 	url = git@github.com:LeoneChen/mbedtls-SGX.git
 	branch = UseSGXSanWithSensitiveLeakSan
+[submodule "sgx-gmp-all"]
+	path = sgx-gmp-all
+	url = git@github.com:LeoneChen/sgx-gmp-all.git
