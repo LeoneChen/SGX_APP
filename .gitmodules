@@ -12,3 +12,7 @@
 [submodule "sgx-gmp-all"]
 	path = sgx-gmp-all
 	url = git@github.com:LeoneChen/sgx-gmp-all.git
+[submodule "SGXCryptoFile"]
+	path = SGXCryptoFile
+	url = git@github.com:LeoneChen/SGXCryptoFile.git
+	branch = UseSGXSanWithSensitiveLeakSan
