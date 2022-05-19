@@ -16,3 +16,6 @@
 	path = SGXCryptoFile
 	url = git@github.com:LeoneChen/SGXCryptoFile.git
 	branch = UseSGXSanWithSensitiveLeakSan
+[submodule "TaLoS"]
+	path = TaLoS
+	url = git@github.com:LeoneChen/TaLoS.git
