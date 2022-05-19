@@ -19,3 +19,6 @@
 [submodule "TaLoS"]
 	path = TaLoS
 	url = git@github.com:LeoneChen/TaLoS.git
+[submodule "sgx-reencrypt"]
+	path = sgx-reencrypt
+	url = git@github.com:LeoneChen/sgx-reencrypt.git
